@@ -11,4 +11,4 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: Run test (dummy)
-      run: echo test successful (It's dummy :D )
+      run: echo test successful
